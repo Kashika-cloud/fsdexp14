@@ -1,0 +1,1 @@
+{"name":"fullstack-app","version":"1.0.0","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.22.3"},"description":"","main":"cycle.js","keywords":[],"author":"","license":"ISC","type":"commonjs"}
